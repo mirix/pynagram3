@@ -2,7 +2,9 @@
 
 Pynagram anagram game ported to Python3/PyQt5
 
-Pynagram is a very simple anagram game in Python originally developed by Umang Varma (2009-2011).
+Pynagram is a very simple anagram game in Python originally developed by Umang Varma (2009-2011):
+
+https://launchpad.net/pynagram/+download
 
 The latest version required Python2/PyQt4.
 
